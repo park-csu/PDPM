@@ -1,0 +1,7 @@
+[project]
+name = 'test'
+author = 'test'
+description = 'test'
+license = 'mit'
+
+[packages]

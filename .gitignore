@@ -1,0 +1,4 @@
+# pdpm dependant
+.pdpm-python
+.cache
+.venv
